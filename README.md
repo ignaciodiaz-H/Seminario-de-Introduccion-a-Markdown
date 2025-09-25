@@ -93,4 +93,4 @@ Párrafo 2.
 ![](/Imagenes/imagen1.png)
 
 
-[2 docuemnto] (/Nuevo docuemnto Markdown.md)
+[2 docuemnto] (/Nuevo-documento-Markdown.md)
