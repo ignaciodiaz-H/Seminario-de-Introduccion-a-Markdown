@@ -82,3 +82,13 @@ Párrafo 1.
 <!- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
+
+ - Imagen externa 
+
+![El zokas](https://www.infobae.com/resizer/v2/PY6EKQB6NVGXVN4UQHGXMVD3VQ.png?auth=313a278170c7e7c54d35fadaf4dd0450ff97bbfc307e62732c4ea5517d29eb69&smart=true&width=992&height=558&quality=85)
+
+
+- Imagen Local
+
+![](/Seminario-de-Introduccion-a-Markdown/Imagenes/imagen1.png)
+
