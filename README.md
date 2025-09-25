@@ -64,7 +64,7 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 3. Item 3  
 4. Item 4  
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3
+| Encabezado 1 | Encabezado 2 | Encabezado 3 
 | --- | --- | --- | ---
 | Fila 1.1 | Fila 1.2 | Fila 1.3
 | Fila 2.1 | Fila 2.2 | Fila 2.3
@@ -90,5 +90,7 @@ Párrafo 2.
 
 - Imagen Local
 
-![](/Seminario-de-Introduccion-a-Markdown/Imagenes/imagen1.png)
+![](/Imagenes/imagen1.png)
 
+
+[2 docuemnto] (/Nuevo docuemnto Markdown.md)
